@@ -4,7 +4,7 @@ and majoring in **Computer Science and Engineering**.
 
 I'm interested in 
 <p>
--Java Web Programing using Springboot [image.png]
--DevOps Using AWS(Amazon Web Service)
--(potentially)Data Engineering
+-Java Web Programing using Springboot<br>
+-DevOps Using AWS(Amazon Web Service)<br>
+-(potentially)Data Engineering<br>
 </p>
