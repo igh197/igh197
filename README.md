@@ -5,7 +5,5 @@ and majoring in <h5>Computer Science and Engineering</h5>.
 I'm interested in 
 <p>
 -Java Web Programing using Springboot<br>
--Python Web Programing using Django Framework<br>
--DevOps Using AWS(Amazon Web Service)<br>
--(potentially)Data Engineering<br>
+-AI, BigData<br>
 </p>
