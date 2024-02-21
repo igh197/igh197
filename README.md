@@ -5,5 +5,5 @@ and majoring in <h5>Computer Science and Engineering</h5>.
 I'm interested in 
 <p>
 -Java Web Programing using Springboot<br>
--AI, BigData<br>
+-python<br>
 </p>
